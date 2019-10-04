@@ -8,4 +8,6 @@ div {
 
 p {
     color: blueviolet;
+    font-family: monospace;
+    font-size: 25px;
 }
